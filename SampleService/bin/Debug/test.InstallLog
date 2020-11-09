@@ -1,0 +1,13 @@
+﻿アセンブリ 'C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.InstallLog
+   assemblypath = C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe
+サービス 'test' をインストールしています...
+サービス 'test' は正常にインストールされました。
+EventLog ソース test をログ Application に作成しています...
+アセンブリ 'C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.InstallLog
+   assemblypath = C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe

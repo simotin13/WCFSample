@@ -1,0 +1,45 @@
+﻿
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.InstallLog にあります。
+
+インストール段階が正常に完了しました。コミット段階を開始しています。
+C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\source\repos\test\test\bin\Debug\test.InstallLog にあります。
+
+コミット段階が正常に終了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.ComponentModel.Win32Exception: 指定されたサービスは既に開始されています。
+
+インストールのロールバックを開始しています。
+C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog にあります。
+
+インストール段階が正常に完了しました。コミット段階を開始しています。
+C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog にあります。
+
+コミット段階が正常に終了しました。
+
+トランザクション インストールが完了しました。

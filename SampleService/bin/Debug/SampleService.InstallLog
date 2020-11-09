@@ -1,0 +1,26 @@
+﻿アセンブリ 'C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe
+サービス 'SampleService' をインストールしています...
+EventLog ソース SampleService をログ Application に作成しています...
+アセンブリ 'C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe
+ソース SampleService の前の状態にイベント ログを復元しています。
+アセンブリ 'C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe
+サービス 'SampleService' をインストールしています...
+サービス 'SampleService' は正常にインストールされました。
+EventLog ソース SampleService をログ Application に作成しています...
+アセンブリ 'C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.InstallLog
+   assemblypath = C:\Users\miyazaki\Desktop\WCFSample\SampleService\bin\Debug\SampleService.exe

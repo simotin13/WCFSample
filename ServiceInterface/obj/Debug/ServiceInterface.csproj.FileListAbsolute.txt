@@ -1,0 +1,5 @@
+C:\Users\miyazaki\Desktop\WCFSample\service\bin\Debug\service.dll
+C:\Users\miyazaki\Desktop\WCFSample\service\bin\Debug\service.pdb
+C:\Users\miyazaki\Desktop\WCFSample\service\obj\Debug\ServiceInterface.csproj.CoreCompileInputs.cache
+C:\Users\miyazaki\Desktop\WCFSample\service\obj\Debug\service.dll
+C:\Users\miyazaki\Desktop\WCFSample\service\obj\Debug\service.pdb
